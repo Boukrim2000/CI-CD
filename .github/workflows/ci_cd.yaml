@@ -1,4 +1,4 @@
-name: CI/CD Spark : job + tests + pipeline
+name: "CI/CD Spark : job + tests + pipeline"
 
 on:
   push:
